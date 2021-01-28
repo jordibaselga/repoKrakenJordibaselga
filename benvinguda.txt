@@ -6,4 +6,5 @@ Modificacio 02 Main Jordibaselga
 Afegim imatge a branca01
 =======
 Benvinguda a la branca 02 Jordibaselga
+Afegim imatge a branca02
 >>>>>>> Commit branca02 Jordibaselga
